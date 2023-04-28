@@ -1,0 +1,348 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"j",
+				"jpg"
+			],
+			[
+				"c",
+				"col-md-6"
+			],
+			[
+				"co",
+				"col-md-6"
+			],
+			[
+				"f",
+				"font-weight"
+			],
+			[
+				"te",
+				"text-transform"
+			],
+			[
+				"mar",
+				"margin-bottom"
+			],
+			[
+				"box",
+				"box-shadow"
+			],
+			[
+				"pa",
+				"panel"
+			],
+			[
+				"br",
+				"breadcrumb"
+			],
+			[
+				"m",
+				"max-width"
+			],
+			[
+				"me",
+				"media"
+			],
+			[
+				"b",
+				"breadcrumb"
+			],
+			[
+				"border",
+				"border-radius"
+			],
+			[
+				"ba",
+				"background-color"
+			],
+			[
+				"marg",
+				"margin-bottom"
+			],
+			[
+				"Ja",
+				"JanataLimeTradingCo"
+			],
+			[
+				"pu",
+				"pull-right"
+			],
+			[
+				"tr",
+				"transform"
+			],
+			[
+				"bor",
+				"border-radius"
+			],
+			[
+				"li",
+				"list-style"
+			],
+			[
+				"i",
+				"i"
+			],
+			[
+				"h",
+				"hr"
+			],
+			[
+				"su",
+				"subscribe"
+			],
+			[
+				"sub",
+				"subscribe"
+			],
+			[
+				"tex",
+				"text-decoration"
+			],
+			[
+				"text",
+				"text-transform"
+			],
+			[
+				"fo",
+				"font-weight"
+			],
+			[
+				"rg",
+				"rgba()"
+			],
+			[
+				"bo",
+				"border"
+			],
+			[
+				"r",
+				"right"
+			],
+			[
+				"ac",
+				"action"
+			],
+			[
+				"n",
+				"navbar"
+			],
+			[
+				"font",
+				"font-family"
+			],
+			[
+				"se",
+				"search"
+			],
+			[
+				"u",
+				"user_query"
+			],
+			[
+				"bt",
+				"btn"
+			],
+			[
+				"navbar-",
+				"navbar-collapse"
+			],
+			[
+				"nav",
+				"navbar-brand"
+			],
+			[
+				"padd",
+				"padding-top"
+			],
+			[
+				"btn",
+				"btn-success"
+			],
+			[
+				"di",
+				"dir"
+			],
+			[
+				"backg",
+				"background-color"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/xampp/htdocs/ecom/includes/sidebar.php",
+		"/C/xampp/htdocs/ecom/index.php",
+		"/C/xampp/htdocs/ecom/shop.php",
+		"/C/xampp/htdocs/ecom/styles/style.css",
+		"/C/xampp/htdocs/ecom/includes/footer.php",
+		"/C/xampp/htdocs/rental/login.php",
+		"/C/Users/Maaz Chunawala/index",
+		"/C/Users/Maaz Chunawala/index.php",
+		"/C/Users/Maaz Chunawala/Downloads/index.php",
+		"/C/xampp/htdocs/ecom/admin_area/css/style.css",
+		"/C/xampp/htdocs/ecom/admin_area/dashboard.php",
+		"/C/xampp/htdocs/ecom/admin_area/includes/sidebar.php",
+		"/C/xampp/htdocs/ecom/admin_area/includes/index.php",
+		"/C/xampp/htdocs/ecom/customer/customer_registeration.php"
+	],
+	"find":
+	{
+		"height": 27.2
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.2
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "about.sublime-project",
+	"replace":
+	{
+		"height": 51.2
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 50.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
